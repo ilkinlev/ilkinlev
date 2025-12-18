@@ -23,14 +23,6 @@
 
 ---
 
-## 📌 Projects
-- 🎵 **YTMP3-Front** – Frontend UI project  
-- 🎮 **ConsoleGame** – Console-based game for logic practice  
-- 🐍 **PythonHomeWork** – Python fundamentals & exercises  
-- 🌐 **Portfolio Website** – GitHub Pages personal site  
-
----
-
 ## 🤝 Connect with Me
 <p>
   <a href="mailto:arcrutus007@gmail.com">
